@@ -25,7 +25,7 @@ describe("WithLogging tests", () => {
     expect(spy).toBeCalledWith("Component TestComponent is mounted");
     wrapper.unmount();
     expect(spy).toHaveBeenCalledTimes(2);
-    expect(spy).toBeCalledWith("Component TestComponent is going to unmount");
+    expect(spy).toBeCalledWith("Component Test is going to unmount");
     spy.mockRestore();
   });
 });
