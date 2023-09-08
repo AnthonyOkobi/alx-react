@@ -13,7 +13,7 @@
 					<meta property="og:title" content="favicon -  .ico"/>
 			<meta name="og:title" content="favicon -  .ico"/>
 			<meta property="og:type" content="website" />
-			<meta property="og:url" content="https://jumpshare.com/v/zMuHFv64lyklU30otOgg"/>
+			<meta property="og:url" content="https://jumpshare.com/v/24y3cqsDhybReGXNs4Hu"/>
 			<meta property="og:site_name" content="Jumpshare"/>
 			<meta property="fb:app_id" content="614727055210698"/>
 			<meta property="og:description" content="Shared with Jumpshare"/>
@@ -21,10 +21,10 @@
 
 			<meta name="twitter:card" content="summary_large_image">
 			<meta name="twitter:site" content="@Jumpshare">
-			<meta name="twitter:url" content="https://jumpshare.com/v/zMuHFv64lyklU30otOgg"/>
+			<meta name="twitter:url" content="https://jumpshare.com/v/24y3cqsDhybReGXNs4Hu"/>
 			<meta name="twitter:title" content="favicon -  .ico">
 			<meta name="twitter:domain" content="jumpshare.com"/>
-							<link rel="alternate" type="application/json+oembed" href="https://jumpshare.com/api/v1/oembed?url=https://jumpshare.com/v/zMuHFv64lyklU30otOgg" title="favicon -  .ico" />
+							<link rel="alternate" type="application/json+oembed" href="https://jumpshare.com/api/v1/oembed?url=https://jumpshare.com/v/24y3cqsDhybReGXNs4Hu" title="favicon -  .ico" />
 			
 		
 		<link rel="apple-touch-icon" href="favicon.png">
@@ -87,7 +87,7 @@
 .content_fluid.is-empty .empty {
 background-image: url("data:image/svg+xml,%3csvg width='100%25' height='100%25' xmlns='http://www.w3.org/2000/svg'%3e%3crect width='100%25' height='100%25' fill='none' rx='5' ry='5' stroke='%23AFB8BCFF' stroke-width='1.5' stroke-dasharray='6 8' stroke-dashoffset='0' stroke-linecap='round'/%3e%3c/svg%3e");
   }
-</style><link href="https://static.jumpshare.com/res/cssm/jumpshare_1694104162.css" rel="stylesheet" type="text/css" media="screen, projection, print" />
+</style><link href="https://static.jumpshare.com/res/cssm/jumpshare_1693337469.css" rel="stylesheet" type="text/css" media="screen, projection, print" />
 <link href="https://static.jumpshare.com/res/cssm/nprogress_1468940246.css" rel="stylesheet" type="text/css" media="screen, projection" />
 		<script src="/res/css/modernizr.js"></script>
 
@@ -115,13 +115,12 @@ background-image: url("data:image/svg+xml,%3csvg width='100%25' height='100%25' 
 		var ACCESS_LEVEL = 0;
 		var TEAM_INVITE_CODE = "";
 		var VIEW = "public";
-		var CAPTION_BR_LIMIT = 55;
 		var TZ = "";
 		var TZ_OFFSET = parseInt(0);
 		var VIEWER_SUBDIR = 's';
 		var UTYPE = 'normal';
 				var DesktopPushNotificationsWebRoom = "";
-					var PublicPushNotificationsRoom = 'ssCgyFi_BiR-B_8gqdl2xuc3_s9SCEXTpKvTAU8umO-Dmo4dU2mkkHeg2UB00KQf|NyzQOv74VPC1zjQohs3t';
+					var PublicPushNotificationsRoom = '0Efa3zpH8ar5wUuWW8I-ZQGXn8pFcIelKCj1_cyje1vaz9-MA2lOQTkL-lwgVKCs|kk4QVWaE3X86SRTP8m4m';
 				if (typeof console == "undefined" || typeof console.log == "undefined") var console = { log: function() {}, error: function() {} };
 			EmbedRedirect();
 			function EmbedRedirect() {
@@ -137,7 +136,7 @@ background-image: url("data:image/svg+xml,%3csvg width='100%25' height='100%25' 
 
 	</script>
 							
-		<script type="text/javascript" src="https://static.jumpshare.com/res/jsm/js0_1694115087.js?state=/"></script>
+		<script type="text/javascript" src="https://static.jumpshare.com/res/jsm/js0_1692910007.js?state=/"></script>
 				<script type="text/javascript">
 			Jmp.Helpers.update_iur("false");
 		</script>
@@ -161,7 +160,7 @@ background-image: url("data:image/svg+xml,%3csvg width='100%25' height='100%25' 
 		clientId : "com.jumpshare.login.apple",
 		scope : 'name email',
 		redirectURI: "https://jumpshare.com/apple_auth",
-		state : "4139a45fdde8107077e9",
+		state : "2898d981f529a9dcb49b",
 		usePopup : true
 	});
 </script>
@@ -210,7 +209,7 @@ background-image: url("data:image/svg+xml,%3csvg width='100%25' height='100%25' 
 
 
 		<style>
-/* .custom_captions_wrapper span {
+.custom_captions_wrapper span {
 	font-size: calc(0.6vw + 0.6vh + 0.9vmin);
 }
 .responsivePlayerView .custom_captions_wrapper span {
@@ -218,7 +217,7 @@ background-image: url("data:image/svg+xml,%3csvg width='100%25' height='100%25' 
 }
 .mejs__container-fullscreen .custom_captions_wrapper span {
    	font-size: calc(0.8vw + 0.8vh + 1.1vmin);
-} */
+}
 .time_stamp_comments_container .in_video_comment_single .timed_comment_tooltip {
 	transform: translateX(calc(-50% + 14px));
 }
@@ -260,7 +259,7 @@ background-image: url("data:image/svg+xml,%3csvg width='100%25' height='100%25' 
 			<div class="viewer-actions">
 				<span id="viewer_actions">
                     <!-- Show Join button to guest users for only files of free users. -->
-                                        <button type="button" class="btn btn-blue pull-left upated_viewer_btn btn-join-js viewer-guest-join-desktop-lnk" data-id="NyzQOv74VPC1zjQohs3t">Get Jumpshare</button>
+                                        <button type="button" class="btn btn-blue pull-left upated_viewer_btn btn-join-js viewer-guest-join-desktop-lnk" data-id="kk4QVWaE3X86SRTP8m4m">Get Jumpshare</button>
                     
 					<button type="button" id="viewer_copy_link" data-link="" class="btn btn-default upated_viewer_btn pull-left">Copy Link</button>
 					<button type="button" id="viewer_share" class="btn btn-default upated_viewer_btn pull-left">Share</button>
@@ -651,15 +650,10 @@ background-image: url("data:image/svg+xml,%3csvg width='100%25' height='100%25' 
 			Edit Captions</p>
 			<div class="subtitles_form_wrapper">
 				<div class="captions_or_ts_container">
-					<div class="loading_message_ui hide">
-						<div>
-							<p>Loading...</p>
-							<span></span>
-						</div>
-					</div>
+					Loading
 				</div>
 				<div class="captiosn_ts_actions">
-					<div class="input_panel_candt blockUI">
+					<div class="input_panel_candt">
 						<form autocomplete="off" style="width: 100%">
 							<input id="txtCaption" placeholder="Select a word to edit" type="text">
 						</form>
@@ -767,16 +761,14 @@ background-image: url("data:image/svg+xml,%3csvg width='100%25' height='100%25' 
 			Transcription</p>
 			<div class="subtitles_form_wrapper">
 				<div class="captions_or_ts_container">
-					<div class="loading_message_ui hide">
-						<div>
-							<p>Loading...</p>
-							<span></span>
-						</div>
-					</div>
+					Loading
 				</div>
 				<div class="captiosn_ts_actions">
-					<a href="javascript:;" id="copy_to_clipboard" class="btn btn-white blockUI">Copy to Clipboard</a>
-					<a href="javascript:;" id="download_transcript" class="btn btn-blue blockUI">Download</a>
+
+					
+					<a href="javascript:;" id="copy_to_clipboard" class="btn btn-white">Copy to Clipboard</a>
+					<a href="javascript:;" id="download_transcript" class="btn btn-blue">Download</a>
+
 				</div>
 			</div>
 		</div>
@@ -820,7 +812,7 @@ background-image: url("data:image/svg+xml,%3csvg width='100%25' height='100%25' 
 				<img id="upload_processing_loader_image" src="/res/images/spacer.gif" class="ab-center spinner-css" style="">
 			</div>
 			
-			<div id="video_editing_panel" class="video_edt_panel hide blockUI" data-player-color="#168EEA" data-player-color-rgba="rgba(22, 142, 234, 1)" data-player-mode="small" data-caption-style="Classic" data-caption-text-color="#ffffff" data-caption-text-outline-color="rgba(255,255,255,0)" data-caption-background-color="rgba(0,0,0,0.8)" data-caption-length="1 row" data-caption-font-size="Normal" data-caption-font-style="Normal">
+			<div id="video_editing_panel" class="video_edt_panel hide blockUI" data-player-color="#168EEA" data-player-color-rgba="rgba(22, 142, 234, 1)" data-player-mode="small">
 				<p class="info_legend">Video Options</p>
 				<ul class="actions_wrapper">
 					<li>
@@ -874,7 +866,7 @@ background-image: url("data:image/svg+xml,%3csvg width='100%25' height='100%25' 
 					<li>
 						<!-- <button id="handle_transcription_id" disabled="true"> -->
 
-						<button id="show_transcription_form" disabled="disabled">
+						<button id="show_transcription_form" disabled="true">
 							<div class="action_icn" style="margin-top: 10px;">
 								<svg width="32" height="25" viewBox="0 0 31 25" fill="none" xmlns="http://www.w3.org/2000/svg"><rect x="0.75" y="0.75" width="29.5" height="23.5" rx="2.75" stroke="#101010" stroke-width="1.3"/><line x1="5.75" y1="18.25" x2="11.25" y2="18.25" stroke="#101010" stroke-width="1.3" stroke-linecap="round"/><line x1="5.75" y1="8.25" x2="11.25" y2="8.25" stroke="#101010" stroke-width="1.3" stroke-linecap="round"/><line x1="19.75" y1="13.25" x2="25.25" y2="13.25" stroke="#101010" stroke-width="1.3" stroke-linecap="round"/><line x1="15.75" y1="18.25" x2="25.25" y2="18.25" stroke="#101010" stroke-width="1.3" stroke-linecap="round"/><line x1="15.75" y1="8.25" x2="25.25" y2="8.25" stroke="#101010" stroke-width="1.3" stroke-linecap="round"/><line x1="5.75" y1="13.25" x2="15.25" y2="13.25" stroke="#101010" stroke-width="1.3" stroke-linecap="round"/></svg>
 							</div>
@@ -883,7 +875,7 @@ background-image: url("data:image/svg+xml,%3csvg width='100%25' height='100%25' 
 					</li>
 
 					<li>
-						<button id="handle_subtitles_id" disabled="disabled">
+						<button id="handle_subtitles_id" disabled="true">
 							<div class="action_icn" style="margin-top: 10px;">
 								<svg width="32" height="25" viewBox="0 0 31 25" fill="none" xmlns="http://www.w3.org/2000/svg"><rect x="0.75" y="0.75" width="29.5" height="23.5" rx="2.75" stroke="#101010" stroke-width="1.3"/><path d="M10.5444 9.23914C10.5576 9.23914 10.5724 9.23914 10.5879 9.23914C11.2394 9.23914 11.8443 9.43536 12.345 9.77053L12.3341 9.76366C12.8566 10.1034 13.264 10.5768 13.5097 11.1356L13.5175 11.1555C13.5905 11.3196 13.7546 11.4326 13.9459 11.4326C14.0143 11.4326 14.0796 11.4181 14.1387 11.3914L14.1356 11.3929L14.4442 11.2578C14.6083 11.1845 14.721 11.0249 14.721 10.8394C14.721 10.7722 14.7062 10.7089 14.6798 10.6516L14.6814 10.6546C14.3214 9.86062 13.7569 9.20937 13.0525 8.74822L13.0362 8.73829C12.3474 8.28173 11.4983 8.00916 10.5848 8.00916C10.5708 8.00916 10.556 8.00916 10.542 8.00916H10.5444C10.5218 8.0084 10.4946 8.0084 10.4682 8.0084C9.2351 8.0084 8.12019 8.50848 7.32327 9.3132L7.3225 9.31396C6.50536 10.1057 6 11.2051 6 12.4206C6 12.4496 6 12.4794 6.00078 12.5084V12.5038C6 12.5282 6 12.5565 6 12.5847C6 13.8017 6.50536 14.9027 7.32172 15.696C8.12019 16.5007 9.2351 17 10.4682 17C10.4954 17 10.5218 17 10.549 16.9992H10.5452C10.5568 16.9992 10.5708 16.9992 10.5856 16.9992C11.4991 16.9992 12.3481 16.7267 13.0525 16.2602L13.037 16.2701C13.7585 15.799 14.3229 15.1478 14.672 14.3805L14.6837 14.3522C14.7086 14.298 14.7233 14.2339 14.7233 14.1675C14.7233 13.9819 14.6106 13.8216 14.4489 13.7498L14.4458 13.7483L14.1371 13.6139C14.0811 13.5895 14.0166 13.5758 13.9482 13.5758C13.8868 13.5758 13.8285 13.5872 13.7748 13.6078L13.7779 13.6071C13.6613 13.6529 13.5703 13.7391 13.5206 13.8483L13.519 13.8514C13.2663 14.4301 12.8589 14.9042 12.3481 15.2371L12.3365 15.244C11.8459 15.573 11.241 15.7693 10.5887 15.7693C10.5739 15.7693 10.5591 15.7693 10.5444 15.7693H10.5467C10.5273 15.77 10.5047 15.77 10.4814 15.77C9.59507 15.77 8.79504 15.4074 8.22748 14.8248L8.22671 14.8241C7.63427 14.2545 7.26652 13.4612 7.26652 12.5832C7.26652 12.555 7.26652 12.5275 7.26729 12.4992V12.5031C7.26652 12.4794 7.26652 12.4519 7.26652 12.4237C7.26652 11.5464 7.63427 10.7531 8.22593 10.1843L8.22671 10.1836C8.7966 9.60027 9.59585 9.23838 10.4822 9.23838C10.5047 9.23838 10.5273 9.23838 10.5498 9.23914H10.5467H10.5444ZM20.8241 9.23914C20.8366 9.23914 20.8521 9.23914 20.8669 9.23914C21.5184 9.23914 22.1241 9.43459 22.6256 9.76977L22.6147 9.76289C23.1372 10.1026 23.5446 10.5768 23.7895 11.1356L23.7972 11.1555C23.847 11.2685 23.9387 11.3555 24.0523 11.3998L24.0554 11.4006C24.1059 11.4204 24.1642 11.4319 24.2249 11.4319C24.2933 11.4319 24.3586 11.4174 24.4177 11.3914L24.4146 11.3929L24.7224 11.2578C24.8865 11.1845 24.9992 11.0249 24.9992 10.8394C24.9992 10.7722 24.9845 10.7089 24.958 10.6516L24.9596 10.6546C24.6004 9.85986 24.0359 9.2086 23.3315 8.74746L23.3152 8.73753C22.6116 8.27562 21.7462 8 20.8156 8C18.3098 8 16.279 9.99423 16.279 12.455C16.279 12.4718 16.279 12.4885 16.279 12.5061V12.5038C16.2782 12.5275 16.2782 12.5565 16.2782 12.5847C16.2782 13.8017 16.7836 14.9027 17.5992 15.696C18.4248 16.5014 19.5623 16.9992 20.8187 16.9992C21.747 16.9992 22.6116 16.7274 23.3323 16.2594L23.3152 16.2701C24.0367 15.799 24.6012 15.1478 24.9487 14.3805L24.9603 14.3522C24.9852 14.298 25 14.2346 25 14.1675C25 13.9819 24.888 13.8216 24.7263 13.7491L24.7232 13.7475L24.4153 13.6132C24.3601 13.588 24.2948 13.5735 24.2264 13.5735C24.165 13.5735 24.1059 13.5857 24.0523 13.6071L24.0554 13.6063C23.9395 13.6521 23.8478 13.7391 23.7988 13.8476L23.7972 13.8506C23.5446 14.4293 23.1372 14.9035 22.6263 15.2348L22.6147 15.2417C22.1093 15.5715 21.4889 15.7677 20.821 15.7677C19.9153 15.7677 19.0966 15.4066 18.5041 14.8225C17.9117 14.253 17.5447 13.4597 17.5447 12.5825C17.5447 12.5542 17.5447 12.526 17.5455 12.4977V12.5015C17.5447 12.4779 17.5447 12.4496 17.5447 12.4214C17.5447 11.5441 17.9117 10.7516 18.5034 10.1828L18.5041 10.182C19.0733 9.59874 19.8733 9.23685 20.7588 9.23685C20.7822 9.23685 20.8047 9.23685 20.828 9.23761H20.8249L20.8241 9.23914Z" fill="#101010" stroke="#101010" stroke-width="0.1"/></svg>
 
@@ -896,7 +888,7 @@ background-image: url("data:image/svg+xml,%3csvg width='100%25' height='100%25' 
 
 
 
-			<div id="audio_editing_panel" class="video_edt_panel hide blockUI" >
+			<div id="audio_editing_panel" class="video_edt_panel hide blockUI" data-player-color="#168EEA" data-player-color-rgba="rgba(22, 142, 234, 1)" data-player-mode="small">
 				<p class="info_legend">Audio Options</p>
 				<ul class="actions_wrapper">
 					
@@ -1299,20 +1291,20 @@ background-image: url("data:image/svg+xml,%3csvg width='100%25' height='100%25' 
 	
 
 	<ul id="files_container" class="buckets clearfix hide">
-					   <li id="zMuHFv64lyklU30otOgg" class="file grid distxts " data-id="zMuHFv64lyklU30otOgg" data-team="0" data-name="favicon -  " data-gridname="favicon -  .ico" data-extension="ico" data-type="image" data-size="4768" data-date="1694182003" data-modified-date="1694182004" data-dimensions="" data-comment-status=enabled  data-status="2"   data-file-url=""  draggable="false" >
+					   <li id="24y3cqsDhybReGXNs4Hu" class="file grid distxts " data-id="24y3cqsDhybReGXNs4Hu" data-team="0" data-name="favicon -  " data-gridname="favicon -  .ico" data-extension="ico" data-type="image" data-size="4768" data-date="1693401496" data-modified-date="1693401497" data-dimensions="" data-comment-status=enabled  data-status="2"   data-file-url=""  draggable="false" >
 	<div class="direct_child_flex">
 	<div class="thumbnail-wrapper">
-		<a href="/v/zMuHFv64lyklU30otOgg" class="single ajax">
+		<a href="/v/24y3cqsDhybReGXNs4Hu" class="single ajax">
 		<div class="thumbnail clearfix  open-view">
-		<img src="/res/images/spacer.gif" class="sicn icn-thumb-image" data-uploaded="1 minute ago"  />
+		<img src="/res/images/spacer.gif" class="sicn icn-thumb-image" data-uploaded="4 hours ago"  />
 		</div>
 </a>		<div class="thumb-overlay ">
 						<div class="btn-group btn-cog-wheel pull-right">
-				<a class="icn-cog-wheel dropdown-toggle" data-id="zMuHFv64lyklU30otOgg" data-toggle="dropdown"></a>
+				<a class="icn-cog-wheel dropdown-toggle" data-id="24y3cqsDhybReGXNs4Hu" data-toggle="dropdown"></a>
 			<ul class="dropdown-menu top-right js-dropdown-menu">
 				<span class="arrow icn-dd-top-arrow-panel"></span>
-															<li><a data-id="zMuHFv64lyklU30otOgg" class="import">Save</a></li>
-																		<li><a class="download" data-link="https://pouch.jumpshare.com/download/SWuVEZpUAevZJuAuyFj13m2bUKSm_h_e68rXvcjFNjRBZMOGz0NUYsfnXy8BKJfUXPRQn_IxvRhSk47CYMw_MQ">Download</a></li>
+															<li><a data-id="24y3cqsDhybReGXNs4Hu" class="import">Save</a></li>
+																		<li><a class="download" data-link="https://pouch.jumpshare.com/download/KFuCcZMHwk3sST09NPXSC7hY-s_5Exlwn3Plk4HKW11CTRJ0rZkv6nctv-2X-KU6DfU59ivt6BeguI5FB1Tohg">Download</a></li>
 					<li><a class="preview hide" data-preview-url="">Preview</a></li>
 											</ul>
 			</div>
@@ -1322,7 +1314,7 @@ background-image: url("data:image/svg+xml,%3csvg width='100%25' height='100%25' 
 
 
 	<div class="clearfix  name-area">
-				<a  class="thumb-title ajax pull-left" href="/v/zMuHFv64lyklU30otOgg"  title="favicon -  .ico">
+				<a  class="thumb-title ajax pull-left" href="/v/24y3cqsDhybReGXNs4Hu"  title="favicon -  .ico">
 					favicon -  .ico		</a>
 	
 		
@@ -1331,7 +1323,7 @@ background-image: url("data:image/svg+xml,%3csvg width='100%25' height='100%25' 
           <div class="thumb-info size-info pull-left">
       <span class='size-num' data-item-size="4768">5 KB</span>
     </div>
-    <span class="time pull-left">1 min ago</span>
+    <span class="time pull-left">4 hrs ago</span>
   </div>
 	<div class="thumb-meta">
 	<div class="thumb-info pull-left">
@@ -1339,7 +1331,7 @@ background-image: url("data:image/svg+xml,%3csvg width='100%25' height='100%25' 
 								        
 					</div>
 </div>	<div class="thumb-footer">
-      <span class="time footer_timer pull-left">1 minute ago</span>
+      <span class="time footer_timer pull-left">4 hours ago</span>
   </div>
 	</div>
 </li>
@@ -1365,14 +1357,14 @@ background-image: url("data:image/svg+xml,%3csvg width='100%25' height='100%25' 
 </div>
 
 	<script type="text/javascript">
-			Socket.connect().join_item("zMuHFv64lyklU30otOgg", "file");
+			Socket.connect().join_item("24y3cqsDhybReGXNs4Hu", "file");
 		setTimeout(function() {
 			if ($("#XHR_XHR").length) {
-				Jmp.Handler.BucketFiles.onBucketFileProgressFromSocket({bucket_id: "zMuHFv64lyklU30otOgg", progress: 100});
+				Jmp.Handler.BucketFiles.onBucketFileProgressFromSocket({bucket_id: "24y3cqsDhybReGXNs4Hu", progress: 100});
 			}
 		}, 10000);
 	
-		ViewerPanel.initialize().render("zMuHFv64lyklU30otOgg");
+		ViewerPanel.initialize().render("24y3cqsDhybReGXNs4Hu");
 
 			$("body").addClass("logged-out");
 	
